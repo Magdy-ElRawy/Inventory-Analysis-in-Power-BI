@@ -27,10 +27,10 @@ This project provides a comprehensive analysis of inventory performance, sales t
 - 💍 **Jewelry**: Contains only Class C (Low Value) products, indicating limited profitability.  
 
 **Sales Performance:**  
-![Sales Insights Dashboard](link-to-sales-insights-dashboard-image) 
+![Sales Performance](https://github.com/Magdy-ElRawy/Inventory-Analysis-in-Power-BI/blob/main/Sales%20Performance%20Dashboard.png) 
 
 **Sales Performance Drill Through:**  
-![Sales Performance Drill Through](link-to-sales-insights-dashboard-image)
+![Sales Performance Drill Through](https://github.com/Magdy-ElRawy/Inventory-Analysis-in-Power-BI/blob/main/Sales%20Drill%20Through.png)
 
 ---
 
@@ -42,10 +42,10 @@ This project provides a comprehensive analysis of inventory performance, sales t
 - 🎯 Class A (High Value) products exist in **Home Accessories**, **Decoration**, **Toys**, and **Edibles**, with Home Accessories having the highest count.  
 
 **Inventory Management:**  
-![Inventory Management](link-to-stock-analysis-dashboard-image)  
+![Inventory Management](https://github.com/Magdy-ElRawy/Inventory-Analysis-in-Power-BI/blob/main/Inventroy%20Management%20Dashboard.png)  
 
 **Inventory Management Drill Through:**  
-![Inventory Management Drill Through](link-to-stock-analysis-dashboard-image) 
+![Inventory Management Drill Through](https://github.com/Magdy-ElRawy/Inventory-Analysis-in-Power-BI/blob/main/Management%20Drill%20Through.png) 
 
 ---
 
@@ -71,9 +71,8 @@ This project demonstrates my ability to transform raw data into actionable insig
 
 ## 📫 Contact  
 For more information or collaboration opportunities, feel free to connect:  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **Email**: [magdyelrawy2022@gmial.com](mailto:magdyelrawy2022@gmial.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/magdy-el-rawy/](https://www.linkedin.com/in/magdy-el-rawy/)  
 
 ---
 
